@@ -1,0 +1,7 @@
+{
+  "name": "코리아탁구교실 - Gunsan Table Tennis",
+  "description": "군산 최고의 탁구장, 코리아탁구교실 공식 홈페이지입니다. 최신 로봇 머신, 넓은 시설, 쾌적한 운동 공간을 제공합니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#2563eb"/>
+  <!-- 탁구 라켓과 공 -->
+  <ellipse cx="35" cy="50" rx="10" ry="18" fill="white"/>
+  <circle cx="65" cy="50" r="10" fill="white"/>
+</svg>
+
